@@ -1,0 +1,31 @@
+I:\ComClasses\2020SP\mbliss\2020SP-LEC-COM-150-S03\jtrusnovec\in class tutorial\birthday wishes\birthday wishes\bin\Debug\birthday wishes.exe.config
+D:\birthday wishes\birthday wishes\bin\Debug\birthday wishes.exe.config
+D:\birthday wishes\birthday wishes\bin\Debug\birthday wishes.exe
+D:\birthday wishes\birthday wishes\bin\Debug\birthday wishes.pdb
+D:\birthday wishes\birthday wishes\bin\Debug\birthday wishes.xml
+D:\birthday wishes\birthday wishes\obj\Debug\birthday wishes.vbprojResolveAssemblyReference.cache
+D:\birthday wishes\birthday wishes\obj\Debug\birthday_wishes.birthday.resources
+D:\birthday wishes\birthday wishes\obj\Debug\birthday_wishes.Resources.resources
+D:\birthday wishes\birthday wishes\obj\Debug\birthday wishes.vbproj.GenerateResource.Cache
+D:\birthday wishes\birthday wishes\obj\Debug\birthday wishes.exe
+D:\birthday wishes\birthday wishes\obj\Debug\birthday wishes.xml
+D:\birthday wishes\birthday wishes\obj\Debug\birthday wishes.pdb
+E:\birthday wishes\birthday wishes\bin\Debug\birthday wishes.exe.config
+E:\birthday wishes\birthday wishes\obj\Debug\birthday wishes.exe
+E:\birthday wishes\birthday wishes\obj\Debug\birthday wishes.xml
+E:\birthday wishes\birthday wishes\obj\Debug\birthday wishes.pdb
+E:\birthday wishes\birthday wishes\bin\Debug\birthday wishes.exe
+E:\birthday wishes\birthday wishes\bin\Debug\birthday wishes.pdb
+E:\birthday wishes\birthday wishes\bin\Debug\birthday wishes.xml
+E:\birthday wishes\birthday wishes\obj\Debug\birthday wishes.vbprojResolveAssemblyReference.cache
+E:\birthday wishes\birthday wishes\obj\Debug\birthday_wishes.birthday.resources
+E:\birthday wishes\birthday wishes\obj\Debug\birthday_wishes.Resources.resources
+E:\birthday wishes\birthday wishes\obj\Debug\birthday wishes.vbproj.GenerateResource.Cache
+I:\ComClasses\2020SP\mbliss\2020SP-LEC-COM-150-S03\jtrusnovec\projects\birthday wishes\birthday wishes\bin\Debug\birthday wishes.exe.config
+I:\ComClasses\2020SP\mbliss\2020SP-LEC-COM-150-S03\jtrusnovec\projects\birthday wishes\birthday wishes\obj\Debug\birthday wishes.exe
+I:\ComClasses\2020SP\mbliss\2020SP-LEC-COM-150-S03\jtrusnovec\projects\birthday wishes\birthday wishes\obj\Debug\birthday wishes.xml
+I:\ComClasses\2020SP\mbliss\2020SP-LEC-COM-150-S03\jtrusnovec\projects\birthday wishes\birthday wishes\obj\Debug\birthday wishes.pdb
+\\campus.sjcny.edu\COM\ComClasses\2020SP\mbliss\2020SP-LEC-COM-150-S03\jtrusnovec\projects\birthday wishes\birthday wishes\bin\Debug\birthday wishes.exe.config
+\\campus.sjcny.edu\COM\ComClasses\2020SP\mbliss\2020SP-LEC-COM-150-S03\jtrusnovec\projects\birthday wishes\birthday wishes\obj\Debug\birthday wishes.exe
+\\campus.sjcny.edu\COM\ComClasses\2020SP\mbliss\2020SP-LEC-COM-150-S03\jtrusnovec\projects\birthday wishes\birthday wishes\obj\Debug\birthday wishes.xml
+\\campus.sjcny.edu\COM\ComClasses\2020SP\mbliss\2020SP-LEC-COM-150-S03\jtrusnovec\projects\birthday wishes\birthday wishes\obj\Debug\birthday wishes.pdb
