@@ -1,0 +1,12 @@
+I:\ComClasses\2020SP\mbliss\2020SP-LEC-COM-150-S03\jtrusnovec\in class tutorial\birthday wishes\birthday wishes\bin\Debug\birthday wishes.exe.config
+D:\birthday wishes\birthday wishes\bin\Debug\birthday wishes.exe.config
+D:\birthday wishes\birthday wishes\bin\Debug\birthday wishes.exe
+D:\birthday wishes\birthday wishes\bin\Debug\birthday wishes.pdb
+D:\birthday wishes\birthday wishes\bin\Debug\birthday wishes.xml
+D:\birthday wishes\birthday wishes\obj\Debug\birthday wishes.vbprojResolveAssemblyReference.cache
+D:\birthday wishes\birthday wishes\obj\Debug\birthday_wishes.birthday.resources
+D:\birthday wishes\birthday wishes\obj\Debug\birthday_wishes.Resources.resources
+D:\birthday wishes\birthday wishes\obj\Debug\birthday wishes.vbproj.GenerateResource.Cache
+D:\birthday wishes\birthday wishes\obj\Debug\birthday wishes.exe
+D:\birthday wishes\birthday wishes\obj\Debug\birthday wishes.xml
+D:\birthday wishes\birthday wishes\obj\Debug\birthday wishes.pdb
