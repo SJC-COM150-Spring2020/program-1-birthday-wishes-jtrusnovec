@@ -1,6 +1,10 @@
 ﻿Public Class birthday
 
     Private Sub btnEnter_Click(sender As Object, e As EventArgs) Handles btnEnter.Click
+        'show message box to user
+        MessageBox.Show("Thank You " & txtName.Text & "!")
+
+
 
         'print happy birthday song to listbox
         lstOut.Items.Add("Happy Birthday to you,")
